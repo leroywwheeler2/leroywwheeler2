@@ -1,7 +1,1 @@
-Cytometry in R
-
-My favorite fluorophore is all of them
-
-Previous coding experience is beginner R and beginner Python
-
-I love flow cytometry and I also like R so I want to combine the two.
+Mid career scientist with 25 years of wet lab experience in the fields of immunology and oncology, currently adding onto my dry lab skill set, which include coding in R and Python, for the purpose of analyzing bioinformatics data.
