@@ -1,1 +1,1 @@
-Mid career scientist with 25 years of wet lab experience in the fields of immunology and oncology, currently adding onto my dry lab skill set, which include coding in R and Python, for the purpose of analyzing bioinformatics data.
+Mid career scientist with 25 years of wet lab experience (in vitro and animal models) in the fields of immunology and oncology. I am currently developing a dry lab skill set, which include coding in R and Python, for the purpose of perform experiments using bioinformatics data.
